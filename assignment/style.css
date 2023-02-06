@@ -1,0 +1,41 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0;
+}
+
+header { 
+    height: 60px;
+    background-color: steelblue;
+    color: whitesmoke;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.info {
+    align-items: center;
+    text-align: center;
+    border: 3px solid slategray;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h2, h3 {
+    background-color: steelblue;
+    color: whitesmoke;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top: -4px;
+    margin-bottom: 20px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
